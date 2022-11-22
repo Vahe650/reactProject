@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "json-server 2",
+      "description": "typicode 2",
+      "price": 3,
+      "imageUrl": "https://random.imagecdn.app/500/500"
+    },
+    {
+      "id": 3,
+      "name": "json-server 2",
+      "description": "typicode 2",
+      "price": 3,
+      "imageUrl": "https://random.imagecdn.app/500/500"
+    },
+    {
+      "id": 4,
+      "name": "json-server 2",
+      "description": "typicode 2",
+      "price": 3,
+      "imageUrl": "https://random.imagecdn.app/500/500"
+    },
+    {
+      "name": "artur jan ",
+      "description": "sgfgfdgfdg",
+      "price": "78878",
+      "imageUrl": "http://res.cloudinary.com/dh1uq37vi/image/upload/v1668953812/sweet_bakery_store_photo/aytdpeeurrlp95fghjiz.jpg",
+      "id": 5
+    },
+    {
+      "name": "artur",
+      "description": "artttt",
+      "price": "4564",
+      "imageUrl": "http://res.cloudinary.com/dh1uq37vi/image/upload/v1668956388/sweet_bakery_store_photo/dwqhemmookwawm90heod.jpg",
+      "id": 6
+    }
+  ]
+}

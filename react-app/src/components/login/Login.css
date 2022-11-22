@@ -1,0 +1,46 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.u-section-1 {
+    background-image: linear-gradient(#f1b5b8, #db545a);
+}
+
+.u-section-1 .u-sheet-1 {
+    min-height: 100vh;
+}
+
+.u-section-1 .u-form-1 {
+    width: 570px;
+    margin: auto;
+}
+
+.u-section-1 .u-form-group-1 {
+    width: 100%;
+}
+
+.u-section-1 .u-form-group-2 {
+    width: 100%;
+}
+
+.u-section-1 .u-form-group-3 {
+    width: 100%;
+}
+
+.u-section-1 .u-form-group-4 {
+    width: 100%;
+}
+
+@media (max-width: 767px) {
+    .u-section-1 .u-form-1 {
+        width: 540px;
+    }
+}
+
+@media (max-width: 575px) {
+    .u-section-1 .u-form-1 {
+        width: 340px;
+    }
+}
