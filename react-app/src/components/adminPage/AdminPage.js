@@ -20,7 +20,8 @@ export default class AdminPage extends Component {
     };
 
     changeState = (newState) => {
-        this.setState({productList: newState})
+        this.setState({productList: newState});
+        this.findedProductList = newState;
     }
 
     search = (productName) => {
