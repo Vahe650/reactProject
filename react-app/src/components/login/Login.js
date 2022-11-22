@@ -21,9 +21,11 @@ const Login = (props) => {
 
     const navigateTo = () => {
        if (formData.login === 'user' && formData.password === 'user') {
+           localStorage.setItem('loggedIn', true);
            navigate('/product');
            return;
        } else if (formData.login === 'admin' && formData.password === 'admin') {
+           localStorage.setItem('loggedIn', true);
            navigate('/admin');
            return;
        } else {
